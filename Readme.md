@@ -16,6 +16,6 @@ _Chatek bude třeba 10._
 1. Vypsat obsazenost chatek (číslo chatky: obsazenost).
 2. Přidat lidi do chatky (ale ošetřit přetečení kapacity chatky).
 3. Odebrat lidi z chatky (ale ošetřit podtečení kapacity chatky).
-4. Vypsat celkový počet ubytovaných lidí Vypsat seznam prázdných chatek.
-5. (tj chatek s 0 lidmi).
+4. Vypsat celkový počet ubytovaných lidí.
+5. Vypsat seznam prázdných chatek. (tj chatek s 0 lidmi).
 6. Konec (třeba volba 0).
